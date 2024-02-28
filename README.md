@@ -1,2 +1,3 @@
-# DS-first-repos
-It is my first Git Repository
+# DS-first
+This is my first Git Repository
+Auther - Divyanshi solanki
